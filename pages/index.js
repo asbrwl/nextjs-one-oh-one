@@ -28,7 +28,7 @@ export default function Home() {
         </div>
         <h3>Home</h3>
         <p className={styles.storytext}>
-        Choose and read a story
+        Choose and read a story. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
         </p>
         
       </main>
